@@ -1,4 +1,4 @@
-package ru.itmo.hls.cronservice.service
+package ru.itmo.hls.cronservice.infrastructure.scheduler
 
 import org.slf4j.LoggerFactory
 import org.springframework.amqp.rabbit.core.RabbitTemplate

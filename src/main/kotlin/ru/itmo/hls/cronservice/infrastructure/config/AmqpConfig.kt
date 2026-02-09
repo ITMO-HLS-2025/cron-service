@@ -1,4 +1,4 @@
-package ru.itmo.hls.cronservice.config
+package ru.itmo.hls.cronservice.infrastructure.config
 
 import org.springframework.amqp.core.DirectExchange
 import org.springframework.amqp.rabbit.connection.ConnectionFactory
